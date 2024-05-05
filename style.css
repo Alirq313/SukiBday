@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+}
+
+h1{
+    margin-left: 1%;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+p{
+    margin-left: 25%;
+    font-size: 1.5rem;
+}
+
+.poster {
+    color: white;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 35%;
+    font-family: cursive;
+    
+
+}
+
+#cake {
+    margin-left: 10%;
+    border: 5px solid white;
+}
+
+
+
